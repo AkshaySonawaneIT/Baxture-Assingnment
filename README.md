@@ -1,4 +1,4 @@
 # Git-github-Tutotrila
 Git/Github tutorial
 <br>
-Author - Akshay Sonawane
+Author - Akshay Bharat Sonawane

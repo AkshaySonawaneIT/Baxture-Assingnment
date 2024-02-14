@@ -10,9 +10,9 @@ Author - Akshay Bharat Sonawane B.E.(IT)
 4. unmodified - unchanged
 
 //
-add & commit
-add - adds new or changed files in your working directory to the git staging area.
-git add <file-name>
+add & commit <br>
+add - adds new or changed files in your working directory to the git staging area.<br>
+git add <file-name><br>
 
-commit - it is the record of change
+commit - it is the record of change<br>
 git commit -m "some message"

@@ -15,4 +15,28 @@ add - adds new or changed files in your working directory to the git staging are
 git add <file-name><br>
 
 commit - it is the record of change<br>
-git commit -m "some message"
+git commit -m "some message"<br>
+
+//
+push - upload local repo content to remote repo<br>
+git push origin main<br>
+
+//
+init command<br>
+
+init - used to create a new git repo<br>
+git init<br>
+git remote add origin <-link-><br>
+git remote -v  (to verify remote)<br>
+git branch (to check branch)<br>
+git branch -M main (to rename branch)<br>
+git push origin main<br>
+
+//
+Branch commands<br>
+
+git branch (to check branch)<br>
+git branch -M main (to rename branch)<br>
+git checkout <-branchname-> (to navigate)<br>
+git checkout -b <-branchname-> (to create new branch)<br>
+git branch -d <-branchname-> (to delete branch)<br>

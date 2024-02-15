@@ -40,3 +40,19 @@ git branch -M main (to rename branch)<br>
 git checkout <-branchname-> (to navigate)<br>
 git checkout -b <-branchname-> (to create new branch)<br>
 git branch -d <-branchname-> (to delete branch)<br>
+
+//
+Merging code <br>
+
+1 way - 
+git diff <-branch-name-> (to compare commits, branches, files & more)<br>
+git merge <-branch-name-> (to merge two branches)<br>
+
+2 way - create a PR<br>
+PR - Pull Request - It lets you tell others about changes you have pushed to a branch in a repository on GitHub.<br>
+
+//
+Pull Command<br>
+
+git pull origin main<br>
+used to fetch and download content from a remote repo and immediately update the local repo to match the content.<br>
